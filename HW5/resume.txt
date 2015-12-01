@@ -1,0 +1,24 @@
+Jonathan F. Lerner
+lernerjo@wharton.upenn.edu
+
+Education:
+
+Harvard University, Cambridge, MA, USA  -  Bachelor of Arts in Applied Mathematics and Economics
+
+University of Pennsylvania, The Wharton School, Philadelphia, PA  -  Masters of Business Administration in Entrepreneurial Management and Finance
+
+Courses: Introduction to Computer Science (C Programming), Introduction to the Theory of Computation, Topics at the Intersection of Economics and Computer Science, Programming Languages and Techniques (Python and Java)
+
+Projects
+Goldman Sachs: Designed and coded back-testing engine in Matlab. Reengineered International Cross-Sectional Equity Model.
+
+Citadel Investment Group: Designed and built new Options Risk-Management system for the largest player, by volume, in US equity options market. Created a detailed spec, pseudo-coded algorithms for useful metrics and system behavior, and coordinated work between teams. Application still used today
+
+Citadel Investment Group: Directed teams in Hong Kong and Chicago in project to translate risk/trading systems from Headquarters to new Asia office.
+
+Dymon Asia Capital: Led project to explore US expansion. Met extensively with leading lawyers, regulatory consultants, prime brokers, and sell-side counterparts in New York in the course of analyzing the viability of a potential venture.
+
+------------------------------
+
+
+
