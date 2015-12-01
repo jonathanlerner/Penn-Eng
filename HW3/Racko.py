@@ -1,3 +1,15 @@
+'''This is a fun program I wrote in Python in Spring 2015 for a Penn Engineering Course.
+Rack-O is a popular family card game invented in the 50s, where the goal is to arrange
+ten cards from your hand in order, pulling from a deck of 60 cards numbered 1-60. Your
+cards are put into fixed slots on your rack and once placed cannot be moved within the
+rack. Each move a player can either pull the top card from the discard pile or a fresh
+card from the deck.
+
+The program I've written is single player Rack-O against an intelligent computer opponent.'''
+
+
+
+
 import random
 
 '''initialize randomness seed'''
