@@ -339,7 +339,7 @@ def main():
     '''See if there are any Racko's from the beginning'''
     if check_racko(user_rack):
         if check_racko(comp_rack):
-            print "AMAZING!!!!!! BOTH YOU AND THE COMPUTER HAVE RACKO!!!! TIE GAME!!! INCREIDIBLE!!!"
+            print "AMAZING!!!!!! BOTH YOU AND THE COMPUTER HAVE RACKO!!!! TIE GAME!!! INCREDIBLE!!!"
             print "Your hand was:"
             print_top_to_bottom(user_rack)
             return
