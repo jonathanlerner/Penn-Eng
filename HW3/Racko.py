@@ -1,9 +1,13 @@
-'''This is a fun program I wrote in Python in Spring 2015 for a Penn Engineering Course.
+'''By Jonathan Lerner
+
+This is a fun program I wrote in Python in Spring 2015 for a Penn Engineering Course.
 Rack-O is a popular family card game invented in the 50s, where the goal is to arrange
-ten cards from your hand in order, pulling from a deck of 60 cards numbered 1-60. Your
-cards are put into fixed slots on your rack and once placed cannot be moved within the
-rack. Each move a player can either pull the top card from the discard pile or a fresh
-card from the deck. See more at https://en.wikipedia.org/wiki/Rack-O
+ten cards from your hand in ascending order, pulling from a deck of 60 cards numbered 1-60.
+Your cards are put into fixed slots on your rack and once placed cannot be moved within the
+rack. Players alternate turns; each move a player can either pull the top card from the
+discard pile or a fresh card from the deck, potentially using it to replace one of the
+cards in his/her rack.
+See more at https://en.wikipedia.org/wiki/Rack-O
 
 The program I've written is single player Rack-O against an intelligent computer opponent.'''
 
