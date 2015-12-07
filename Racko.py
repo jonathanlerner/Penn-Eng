@@ -7,9 +7,10 @@ Your cards are put into fixed slots on your rack and once placed cannot be moved
 rack. Players alternate turns; each move a player can either pull the top card from the
 discard pile or a fresh card from the deck, potentially using it to replace one of the
 cards in his/her rack.
-See more at https://en.wikipedia.org/wiki/Rack-O
+See more at: https://en.wikipedia.org/wiki/Rack-O
 
-The program I've written is single player Rack-O against an intelligent computer opponent.'''
+The program I've written is single player Rack-O against an intelligent computer opponent.
+The computer strategy I developed can be found in the computer_play function.'''
 
 
 
