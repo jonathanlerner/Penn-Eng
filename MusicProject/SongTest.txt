@@ -1,0 +1,8 @@
+Test Song
+JL
+25
+1 D 4 NATURAL false
+1 D 4 NATURAL false
+2 E 4 NATURAL true
+2 D 4 NATURAL false
+2 G 4 NATURAL true
