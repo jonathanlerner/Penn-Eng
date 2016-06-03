@@ -1,8 +1,8 @@
-# Complete the function below.
 # Jonathan Lerner, 1:23am on May 18, 2016. Completed efficient version of Two Sigma Code Test Question 2
+#
 # The problem is to take in an array of words and determine the maximum possible "word chain"
-# A word chain is a chain between words such that any bigger link in the chain is made up of the previous link's word with one character inserted
-# in any position
+# A word chain is a chain between words such that any bigger link in the chain is made up of the previous link's word with one
+# character inserted in any position
 
 def main():
     word_arr = ["a",
