@@ -5,6 +5,9 @@
 # character inserted in any position
 
 def main():
+
+    # One example of an array of words -- our word chain search space
+    # This program is optimized to scale efficiently for MUCH MUCH larger arrays
     word_arr = ["a",
                 "ho",
                 "b",
